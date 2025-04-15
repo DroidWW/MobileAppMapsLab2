@@ -7,9 +7,9 @@
    - Управлять состоянием приложения через React Context
 
 ## Установка зависимостей 
-    "npm install react-native-maps/uuid/expo-image-picker/expo-router/expo-sqlite".
+    npm install react-native-maps/uuid/expo-image-picker/expo-router/expo-sqlite
 ## Запуск проекта 
-    "npx expo start"
+    npx expo start
 ## Тестирование приложения
     Открыть приложение Expo Go на телефоне и отсканировать QR-код в терминале.
 
